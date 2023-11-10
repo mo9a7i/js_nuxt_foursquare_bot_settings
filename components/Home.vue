@@ -1,6 +1,6 @@
 <!-- Please remove this file from your project -->
 <template>
-	<section class="p-5 bg-alert">
+	<section class="p-5 bg-red-500">
 		<div class="container">
 			<div class="row">
 				<div class="col">

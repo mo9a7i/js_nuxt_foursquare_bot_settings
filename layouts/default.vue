@@ -2,7 +2,7 @@
   <div class="app">
     <Header />
     <main  style="min-height:50vh;">
-      <nuxt/>
+      <NuxtPage />
     </main>
     <Footer />
   </div>
